@@ -41,7 +41,7 @@ class musicplayer:
        
         # For Messages--
         def About():
-            tkinter.messagebox.showinfo('About Us','Music Player Created By Dradcoder')
+            tkinter.messagebox.showinfo('About Us','Music Player')
 
         
         self.submenu2=Menu(self.menubar,tearoff=0)
